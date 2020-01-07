@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="primary_button_height">54dp</dimen>
+    <dimen name="heading_large_style_font_size">32dp</dimen>
+    <dimen name="heading_medium_style_font_size">24dp</dimen>
+    <dimen name="body_regular_style_font_size">18dp</dimen>
+    <dimen name="body_small_style_font_size">16dp</dimen>
+    <dimen name="body_label_style_font_size">@dimen/body_small_style_font_size</dimen>
+    <dimen name="caption_style_font_size">14dp</dimen>
+
+    <dimen name="heading_large_style_line_height">42dp</dimen>
+    <dimen name="heading_medium_style_line_height">32dp</dimen>
+    <dimen name="body_regular_style_line_height">26dp</dimen>
+    <dimen name="body_small_style_line_height">24dp</dimen>
+    <dimen name="body_label_style_line_height">@dimen/body_small_style_line_height</dimen>
+    <dimen name="caption_style_line_height">22dp</dimen>
+    <dimen name="checked_circle_bg_size">110dp</dimen>
+
+
+</resources>
